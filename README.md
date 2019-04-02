@@ -6,6 +6,7 @@ Run instruction
  java MazeSolver
 
 Step 1: The program will prompting a question "Please enter the file name" and enter the full file path of text file
+
 Example:
         Please enter the file name
         /Users/smanicka/Maze/src/maze.txt
