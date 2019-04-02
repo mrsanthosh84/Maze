@@ -2,6 +2,7 @@
 Run instruction
 ------------------
  javac MazeSolver.java
+ 
  java MazeSolver
 
 Step 1: The program will prompting a question "Please enter the file name" and enter the full file path of text file
@@ -10,6 +11,7 @@ Example:
         /Users/smanicka/Maze/src/maze.txt
 
 Step 2: It will print the solved maze upon completion and exit. An example result below
+
     -------------------Movement-1--------------
     # # # # # # # # # # #
     S   #       #       #
@@ -22,6 +24,7 @@ Step 2: It will print the solved maze upon completion and exit. An example resul
     #   #   #   # # #   #
     #       #           F
     # # # # # # # # # # #
+    
     -------------------Movement-2--------------
     # # # # # # # # # # #
       S #       #       #
@@ -34,6 +37,7 @@ Step 2: It will print the solved maze upon completion and exit. An example resul
     #   #   #   # # #   #
     #       #           F
     # # # # # # # # # # #
+    
     -------------------Movement-3--------------
     # # # # # # # # # # #
         #       #       #
@@ -46,6 +50,7 @@ Step 2: It will print the solved maze upon completion and exit. An example resul
     #   #   #   # # #   #
     #       #           F
     # # # # # # # # # # #
+    
     -------------------Movement-4--------------
     # # # # # # # # # # #
         #       #       #
@@ -58,6 +63,7 @@ Step 2: It will print the solved maze upon completion and exit. An example resul
     #   #   #   # # #   #
     #       #           F
     # # # # # # # # # # #
+    
     -------------------Movement-5--------------
     # # # # # # # # # # #
         #       #       #
@@ -70,6 +76,7 @@ Step 2: It will print the solved maze upon completion and exit. An example resul
     #   #   #   # # #   #
     #       #           F
     # # # # # # # # # # #
+    
     -------------------Movement-6--------------
     # # # # # # # # # # #
         #       #       #
@@ -82,6 +89,7 @@ Step 2: It will print the solved maze upon completion and exit. An example resul
     #   #   #   # # #   #
     #       #           F
     # # # # # # # # # # #
+    
     -------------------Movement-7--------------
     # # # # # # # # # # #
         #       #       #
@@ -94,6 +102,7 @@ Step 2: It will print the solved maze upon completion and exit. An example resul
     #   #   #   # # #   #
     #       #           F
     # # # # # # # # # # #
+    
     -------------------Movement-8--------------
     # # # # # # # # # # #
         # S     #       #
